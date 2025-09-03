@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AACA;EACE;EACA;EACA;EACA;EACA","sourcesContent":["\nbody {\n  max-width: 1080px;\n  margin: auto;\n  text-align: left;\n  font-family: 'sans-serif';\n  font-size: large;\n}\n"],"file":"styles.css"}
