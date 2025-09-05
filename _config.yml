@@ -28,7 +28,7 @@ domain: pugsiman.github.io       # if you want to force HTTPS, specify the domai
 url: https://pugsiman.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
 
