@@ -3,7 +3,7 @@ layout: post
 author: aviv
 ---
 
-## In Defense of the Mediocre Developer
+## There is no such thing as Mediocre Developer
 ### Or: Are we overestimating the importance of averages in our teams?
 
 A year ago, I was lucky enough to receive a work permit from the Canadian government, and spend some time in Vancouver while doing contract work and continuing my studies from afar. Less fortunately, I got to see some questionable behaviors by the hiring end, including experiencing suspicions of using AI, or being lied to about terms previously agreed upon. But this is not an article complaining about AI or even hiring practices, but something else I’ve come to think about as I’ve been observing software engineering culture here and pursuing my statistics degree. Namely, that in our efforts to optimize for and define the ideal individual developer, we seem to have forgotten about the *composition of teams*. 
